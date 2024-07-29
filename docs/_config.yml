@@ -10,6 +10,8 @@ plugins:
 #  - jekyll-seo-tag
   - jekyll-paginate
 #  - jekyll-sitemap
+paginate: 5
+#paginate_path: "/:num/"
 #social_links:
 #    - { platform: facebook,       user_url: "https://www.facebook.com/leru" }
 #    - { platform: github,         user_url: "https://github.com/janleroux" }
