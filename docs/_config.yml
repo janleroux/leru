@@ -5,6 +5,11 @@ theme: minima
 title: Tinker-and-Target
 description: Explore electronics tinkering, my latest DIY projects and shooting sports.
 show_excerpts: true
+plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
+  - jekyll-paginate
+#  - jekyll-sitemap
 #social_links:
 #    - { platform: facebook,       user_url: "https://www.facebook.com/leru" }
 #    - { platform: github,         user_url: "https://github.com/janleroux" }
