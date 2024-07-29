@@ -1,3 +1,3 @@
 ---
-title: Tinker-and-Target
+layout: default
 ---
