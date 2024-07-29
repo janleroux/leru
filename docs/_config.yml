@@ -1,9 +1,12 @@
 theme: minima
-minima:
+#minima:
   #skin: classic
-  skin: dark
+  #skin: dark
 title: Tinker-and-Target
 description: Explore electronics tinkering, my latest DIY projects and shooting sports.
+author:
+  name: GitHub User
+  email: your-email@domain.com
 
 #social_links:
 #    - { platform: facebook,       user_url: "https://www.facebook.com/leru" }
