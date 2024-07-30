@@ -1,10 +1,13 @@
-theme: minima
-#minima:
-  #skin: classic
-  #skin: dark
 title: APAC TIP Program
 description: Explore electronics tinkering, my latest DIY projects and shooting sports.
+
 show_excerpts: true
+
+theme: minima
+minima:
+  skin: classic
+  #skin: dark
+
 header_pages:
   - about.md
   - categories.html
@@ -22,9 +25,11 @@ plugins:
   - jekyll-readme-index
   - jekyll-default-layout
   - jekyll-titles-from-headings
+  
 #google_analytics: G-YV6984LBD2
 #disqus:
 #  shortname: dfederm
+
 social_links:
     - { platform: facebook,       user_url: "https://www.facebook.com/leru" }
     - { platform: github,         user_url: "https://github.com/janleroux" }
