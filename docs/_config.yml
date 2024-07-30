@@ -5,8 +5,8 @@ show_excerpts: true
 
 theme: minima
 minima:
-  skin: classic
-  #skin: dark
+  #skin: classic
+  skin: dark
 
 header_pages:
   - about.md
@@ -37,35 +37,3 @@ social_links:
     - { platform: instagram,      user_url: "https://www.instagram.com/leru_io" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/janleroux" }
 
-# Minima variables
-#twitter_username:  chad_baldwin
-github_username:   janleroux
-linkedin_username: janleroux
-#dribbble_username: jekyll
-#facebook_username: jekyll
-#flickr_username: jekyll
-instagram_username: leru_io
-#pinterest_username: jekyll
-#youtube_username: jekyll
-#googleplus_username: +jekyll
-rss: rss
-
-# Used by simple links page
-social-links:
-  LinkedIn:        https://linkedin.com/in/janleroux
-#  StackOverflow:   https://stackoverflow.com/users/3474677
-#  HackerRank:      https://hackerrank.com/chadwin
-  GitHub:          https://github.com/janleroux
-#  Microsoft Learn: https://learn.microsoft.com/en-us/users/chadbaldwin/transcript/v0ylxf6nq5l8ny8
-#  Twitter:         https://twitter.com/chad_baldwin
-#  Reddit:          https://reddit.com/user/chadbaldwin
-#  Credly:          https://credly.com/users/chadbaldwin
-#  PluralSight:     https://app.pluralsight.com/profile/chadbaldwin
-  Website:         /
-
-social:
-  name: Jan le Roux
-  links:
-    - https://www.instagram.com/leru_io
-    - https://www.linkedin.com/in/janleroux
-    - https://github.com/janleroux
