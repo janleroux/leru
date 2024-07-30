@@ -6,9 +6,19 @@ title: APAC TIP Program
 description: Explore electronics tinkering, my latest DIY projects and shooting sports.
 show_excerpts: true
 plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
-#  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-coffeescript
+  - jekyll-commonmark-ghpages
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
 social_links:
     - { platform: facebook,       user_url: "https://www.facebook.com/leru" }
     - { platform: github,         user_url: "https://github.com/janleroux" }
