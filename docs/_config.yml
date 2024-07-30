@@ -11,21 +11,22 @@ minima:
 header_pages:
   - about.md
   - categories.html
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-coffeescript
-  - jekyll-commonmark-ghpages
-  - jekyll-gist
-  - jekyll-github-metadata
+#  - jekyll-coffeescript
+#  - jekyll-commonmark-ghpages
+#  - jekyll-gist
+#  - jekyll-github-metadata
   - jekyll-paginate
-  - jekyll-relative-links
-  - jekyll-optional-front-matter
-  - jekyll-readme-index
-  - jekyll-default-layout
-  - jekyll-titles-from-headings
-  
+#  - jekyll-relative-links
+#  - jekyll-optional-front-matter
+#  - jekyll-readme-index
+#  - jekyll-default-layout
+#  - jekyll-titles-from-headings
+
 #google_analytics: G-YV6984LBD2
 #disqus:
 #  shortname: dfederm
