@@ -36,3 +36,23 @@ social_links:
     - { platform: github,         user_url: "https://github.com/janleroux" }
     - { platform: instagram,      user_url: "https://www.instagram.com/leru_io" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/janleroux" }
+
+# Minima variables
+#twitter_username:  chad_baldwin
+github_username:   janleroux
+linkedin_username: janleroux
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+instagram_username: leru_io
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+rss: rss
+
+social:
+#  name: Chad Baldwin
+  links:
+    - https://www.instagram.com/leru_io
+    - https://www.linkedin.com/in/janleroux
+    - https://github.com/janleroux
