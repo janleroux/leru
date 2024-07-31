@@ -3,7 +3,7 @@ layout: post
 title: "CZ457 LRP Rifle Makeover"
 description: "The DIY journey of a project to enhance the looks and accuracy of my CZ457 LRP Rifle"
 date: 2024-01-13
-categories: [22LR, Diy, Rifle, 3D Printing, Gunsmithing, Sports]
+categories: [Diy, Rifle, 3D Printing, Sports]
 tags: [22lr, 3d printing, diy, gunsmithing, sports]
 comments: true
 ---
@@ -228,3 +228,5 @@ I will do testing with the EC Tuner and share my results sometime in future.
 * Get a box of disposable gloves, disposable cups and mixing sticks. It gets messy quickly.
 * Wear PPE. You do not want to breathe the Carbon Fiber dust and resin fumes, or worse get those little splinters in your eyes.
 * Lastly, on QD-CUPS. The ones I installed had a small hole in the bottom. After I covered them in epoxy and dropped them into place, I saw that a lot of epoxy pushed through the hole into the cup area. I am glad I spotted that happening as it would have rendered the QD-CUP useless once the epoxy hardened inside the cup. I cleaned them out with cotton sticks and a bit of oil.
+
+## Downloads
