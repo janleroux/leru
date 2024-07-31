@@ -8,7 +8,7 @@ tags: [22lr, 3d printing, diy, gunsmithing, sports]
 comments: true
 ---
 ## Introduction
-[![rifle](/assets/240113_rifle.jpg){: .center }]
+[![rifle](/assets/240113_rifle.jpg){: .center }](/assets/240113_rifle.jpg)
 There is that moment when you still have the opportunity to back out of a project. But then, what is the worst that could happen? For one, I could mess it all up, and end up binning the stock. But nothing ventured, nothing gained...
 
 Before we start, why am I doing this CZ 457 LRP (Long Range Precision) makeover again?
@@ -43,7 +43,7 @@ No turning back now! Now we get to the part where the rubber meets the road. Wha
 
 #### Bag Rider design and print
 I took the necessary measurements, and after a couple of iterations, I had a bag rider that resembled what I envisaged in my mind. My design uses the existing rear picatinny rail and extends all the way to the grip, giving a long flat surface for a rear shooting bag.
-[![bagrider](/assets/240113-bagrider.png){: .center }
+[![bagrider](/assets/240113-bagrider.png){: .center }]
 Next is to 3D print it, and see if it fits. And, of course, it did not fit the first time, or even the second time. By the third time I got it right, and there was all-round happiness in my garage!
 [![bagrider2](/assets/240113-bagrider2.jpg){: .center }
 I used a 0.6mm printing nozzle, printing at 0.15mm layer height using PLA.
