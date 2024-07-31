@@ -7,7 +7,7 @@ categories: [Cooking]
 tags: [cooking, hunting, conservation]
 comments: true
 ---
-[![rifle](/assets/231209_GoatCurry.jpg){: .center }](/assets/231209_GoatCurry.jpg)
+[![Goat Curry](/assets/231209-GoatCurry.jpg){: .center }](/assets/231209-GoatCurry.jpg)
 
 ## Introduction
 I grew up on a farm, and I was raised that you eat what you shoot. And if you are not going to eat it, then don’t shoot it (unless it is a pest, or something wanting to eat you first).
