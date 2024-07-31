@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Slow-Cooked, eat your fingers off Goat Curry"
+title: "Slow-Cooked 'eat your fingers off' Goat Curry"
 description: "A Goat Curry recipe that is life changing"
 date: 2023-12-09
 categories: [Cooking]
