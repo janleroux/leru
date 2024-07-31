@@ -11,7 +11,11 @@ In this post we will test the ability to add an image:
 
 JPG Image in special folder: [![Test Image](/assets/posts/delme/test.jpg){: .center }](/assets/posts/delme/test.jpg)
 
+JPG Image in special folder: [![Test Image](/assets/posts/delme/test.jpg){: .center }]
+
 JPG Image in assets folder: [![Test Image](/assets/test2.jpg){: .center }](/assets/test2.jpg)
+
+[![test image](/assets/test2.jpg)]
 
 PNG Image in assets folder: [![Test Image](/assets/test2.png){: .center }](/assets/test2.png)
 
