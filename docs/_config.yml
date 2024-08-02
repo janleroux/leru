@@ -4,9 +4,8 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: 
-  
-  Explore electronics tinkering, my latest DIY projects and shooting sports.
+description: >
+  Explore electronics tinkering, cooking, diy projects and shooting sports.
 
 # Site settings
 #baseurl: ""
