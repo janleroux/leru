@@ -4,7 +4,8 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
+description: 
+  
   Explore electronics tinkering, my latest DIY projects and shooting sports.
 
 # Site settings
@@ -57,6 +58,8 @@ minima:
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
   skin: classic
+
+  timezone: Australia/Victoria
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
