@@ -4,7 +4,7 @@ title: Privacy Policy
 ---
 # Privacy Policy
 
-Last updated: August 01, 2024
+Last updated: August 03, 2024
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -119,7 +119,7 @@ We will let You know via email and/or a prominent notice on Our Service, prior t
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-##Contact Us
+## Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
 
