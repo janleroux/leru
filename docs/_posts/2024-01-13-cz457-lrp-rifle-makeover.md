@@ -6,6 +6,7 @@ date: 2024-01-13
 categories: [Diy, Rifle, 3D Printing, Sports]
 tags: [22lr, 3d printing, diy, gunsmithing, sports]
 comments: true
+draft: false
 ---
 [![rifle](/assets/240113_rifle.jpg){: .center }](/assets/240113_rifle.jpg)
 

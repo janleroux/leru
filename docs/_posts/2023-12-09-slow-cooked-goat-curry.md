@@ -6,6 +6,7 @@ date: 2023-12-09
 categories: [Cooking]
 tags: [cooking, hunting, conservation]
 comments: true
+draft: false
 ---
 [![Goat Curry](/assets/231209-GoatCurry.jpg){: .center }](/assets/231209-GoatCurry.jpg)
 
