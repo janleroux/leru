@@ -25,7 +25,7 @@ layout: base
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       <!-- ChrisPhillips drafts-->
-      {%- if  post.draft = true -%}
+      {%- if  post.draft != true and  post.draft != 'hidden' -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
