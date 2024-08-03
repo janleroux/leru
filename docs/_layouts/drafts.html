@@ -22,11 +22,11 @@ layout: base
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
     <ul class="post-list">
-      <!-- ChrisPhillips drafts-->
-      {%- if  post.draft != true and  post.draft != 'hidden' -%}
 
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {%- for post in posts -%}
+    <!-- ChrisPhillips drafts-->
+    {%- if  post.draft = true -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
