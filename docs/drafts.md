@@ -1,3 +1,3 @@
 ---
-layout: drafts
+layout: home
 ---
