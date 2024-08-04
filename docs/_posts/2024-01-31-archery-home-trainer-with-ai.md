@@ -8,7 +8,7 @@ tags: [22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, 
 comments: true
 draft: true
 ---
-[![Goat Curry](/assets/231209-GoatCurry.jpg){: .center }](/assets/231209-GoatCurry.jpg)
+[![Loading](/assets/loading.png){: .center }](/assets/loading.png)
 
 ## Introduction
 ### Components

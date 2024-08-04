@@ -6,6 +6,7 @@ order: 1
 
 {%- assign categories = site.categories | sort -%}
 {%- for category in categories -%}
+{%- if  post.draft != true and  post.draft != 'hidden' -%}
 
 {%- assign categoryName = category[0] -%}
 {%- assign categoryNumPosts = category[1] | size -%}
@@ -23,4 +24,5 @@ order: 1
     {%- endif -%}
     {% endfor %}
 </ul>
+{%- endif -%}
 {%- endfor -%}
