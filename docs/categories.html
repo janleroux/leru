@@ -6,9 +6,11 @@ order: 1
 
 {%- assign categories = site.categories | sort -%}
 {%- for category in categories -%}
-{%- if  post.draft != true and  post.draft != 'hidden' -%}
 
+{%- if  post.draft != true -%}
 {%- assign categoryName = category[0] -%}
+{%- endif -%}
+
 {%- assign categoryNumPosts = category[1] | size -%}
 <h3 id="{{categoryName | uri_escape | downcase }}">{{ categoryName }} ({{ categoryNumPosts }})</h3>
 
@@ -24,5 +26,4 @@ order: 1
     {%- endif -%}
     {% endfor %}
 </ul>
-{%- endif -%}
 {%- endfor -%}
