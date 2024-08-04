@@ -3,7 +3,7 @@ layout: page
 title: Categories
 order: 1
 ---
-{%- if  post.draft != true and  post.draft != 'hidden' -%}
+
 {%- assign categories = site.categories | sort -%}
 {%- for category in categories -%}
 
@@ -12,6 +12,7 @@ order: 1
 <h3 id="{{categoryName | uri_escape | downcase }}">{{ categoryName }} ({{ categoryNumPosts }})</h3>
 
 <ul>
+    {%- if  post.draft != true and  post.draft != 'hidden' -%}
     {% assign sorted_posts = category[1] | reversed %}
     {% for post in sorted_posts %}
     
@@ -22,7 +23,7 @@ order: 1
     </li>
     
     {% endfor %}
+    {%- endif -%}
 </ul>
 
 {%- endfor -%}
-{%- endif -%}
