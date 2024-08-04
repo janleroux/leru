@@ -3,10 +3,9 @@ layout: page
 title: Categories
 order: 1
 ---
-
+{%- if  post.draft != true and  post.draft != 'hidden' -%}
 {%- assign categories = site.categories | sort -%}
 {%- for category in categories -%}
-{%- if  post.draft != true and  post.draft != 'hidden' -%}
 
 {%- assign categoryName = category[0] -%}
 {%- assign categoryNumPosts = category[1] | size -%}
@@ -24,5 +23,6 @@ order: 1
     
     {% endfor %}
 </ul>
-{%- endif -%}
+
 {%- endfor -%}
+{%- endif -%}
