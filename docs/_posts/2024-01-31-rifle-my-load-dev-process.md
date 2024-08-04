@@ -3,7 +3,7 @@ layout: post
 title: "My load development process"
 description: "?"
 date: 2024-08-01
-categories: [3D Printing, Ai, Archery, Cooking, Diy, Electronics, Rifle, Sports]
+categories: 
 tags: [22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
 comments: true
 draft: true

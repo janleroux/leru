@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Giving a BSA Martini a new life"
+title: "Creating my first ACAP"
 description: "?"
 date: 2024-08-01
-categories: 
-tags: [22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
+categories: [3D Printing, Ai, Archery, Cooking, Diy, Electronics, Rifle, Sports, Apps]
+tags: [22lr, 3d printing, ai, apps, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
 comments: true
 draft: true
 ---
