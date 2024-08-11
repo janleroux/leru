@@ -231,3 +231,5 @@ I will do testing with the EC Tuner and share my results sometime in future.
 * Lastly, on QD-CUPS. The ones I installed had a small hole in the bottom. After I covered them in epoxy and dropped them into place, I saw that a lot of epoxy pushed through the hole into the cup area. I am glad I spotted that happening as it would have rendered the QD-CUP useless once the epoxy hardened inside the cup. I cleaned them out with cotton sticks and a bit of oil.
 
 ## Downloads
+
+[Download STL files from Thingiverse](https://www.thingiverse.com/thing:6726634)
