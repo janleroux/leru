@@ -6,7 +6,7 @@ date: 2024-08-12
 categories: [3D Printing, Diy, Sports]
 tags: [22lr, 3d printing, diy, sports]
 comments: true
-draft: true
+draft: false
 ---
 [![3D Printed Ear Protection](/assets/2024-08-12_1.jpg){: .center }](/assets/2024-08-12_1.jpg)
 
@@ -20,7 +20,7 @@ There are primarily two types of hearing protection commonly used in shooting sc
 
 Earmuffs, as the name suggests, cover the entire ear, providing a physical barrier against the incoming noise.
 
-
+[![Earmuffs](/assets/2024-08-12_3.jpg){: .center }](/assets/2024-08-12_3.jpg)
 
 They are equipped with padded cups that seal around the ear, reducing the intensity of the sound reaching the eardrum. Earmuffs are popular for their ease of use and comfort, as they don't require insertion into the ear canal.
 
@@ -38,7 +38,7 @@ With this in mind, I played around with various designs for 3D printed earplugs.
 
 [![Earmuffs](/assets/2024-08-12_4.jpg){: .center }](/assets/2024-08-12_4.jpg)
 
-My design uses standard ear tips, which mean you can use foam or rubber and the size that are comfortable for you.
+This design uses standard ear tips, which mean you can use foam or rubber and the size that are comfortable for you.
 
 Which ever option you decided to use, maintaining your auditory health is paramount, and choosing the right hearing protection is a critical step in this process. 
 
