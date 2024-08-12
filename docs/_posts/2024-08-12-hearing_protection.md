@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cost-effective, DIY Hearing Protection"
+title: "Cost-effective, Diy Hearing Protection"
 description: "How to protect your hearing, in a cost-effective way"
 date: 2024-08-12
 categories: [3D Printing, Diy, Sports]
