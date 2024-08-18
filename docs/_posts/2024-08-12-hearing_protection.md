@@ -3,8 +3,8 @@ layout: post
 title: "Cost-effective, Diy Hearing Protection"
 description: "How to protect your hearing, in a cost-effective way"
 date: 2024-08-12
-categories: [3D Printing, Diy, Sports]
-tags: [22lr, 3d printing, diy, sports]
+categories: [3D Printing, Diy, Sports, Thingiverse]
+tags: [22lr, 3d printing, diy, sports, thingiverse]
 comments: true
 draft: false
 ---

@@ -3,8 +3,8 @@ layout: post
 title: "CZ457 LRP Rifle Makeover"
 description: "The DIY journey of a project to enhance the looks and accuracy of my CZ457 LRP Rifle"
 date: 2024-01-13
-categories: [Diy, Rifle, 3D Printing, Sports]
-tags: [22lr, 3d printing, diy, gunsmithing, sports]
+categories: [Diy, Rifle, 3D Printing, Sports, Thingiverse]
+tags: [22lr, 3d printing, diy, gunsmithing, sports, thingiverse]
 comments: true
 draft: false
 ---
