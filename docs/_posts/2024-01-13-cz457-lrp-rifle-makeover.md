@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CZ457 LRP Rifle Makeover"
+title: "CZ457 LRP rifle makeover"
 description: "The DIY journey of a project to enhance the looks and accuracy of my CZ457 LRP Rifle"
 date: 2024-01-13
 categories: [Diy, Rifle, 3D Printing, Sports, Thingiverse]

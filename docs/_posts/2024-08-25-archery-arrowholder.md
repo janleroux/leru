@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Skinny and Fat Arrow Holder"
+title: "Skinny and fat arrow holder"
 description: "3D Printed arrow holder to organize the fletching process"
 date: 2024-08-25
 categories: [Thingiverse, 3D Printing, Archery, Diy, Sports]

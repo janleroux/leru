@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "22LR ammo storage"
+title: "22LR ammo tr storage"
 description: "?"
 date: 2024-08-01
 categories: 
