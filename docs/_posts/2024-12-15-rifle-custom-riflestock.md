@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "ESP32 self forming mesh network"
-description: "?"
+title: "?"
+description: "Custom riflestock"
 date: 2024-08-01
 categories: 
-tags: [22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
+tags: [gitHub, thingiverse, 22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
 comments: true
 draft: true
 ---
@@ -16,3 +16,4 @@ draft: true
 ### Outcome
 ### Tips
 ### Downloads
+

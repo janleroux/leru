@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "DIY Arrow Holder"
+title: "Custom rifle stock mold"
 description: "?"
 date: 2024-08-01
 categories: 
-tags: [22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
+tags: [gitHub, thingiverse, 22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
 comments: true
 draft: true
 ---

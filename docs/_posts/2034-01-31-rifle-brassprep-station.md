@@ -4,7 +4,7 @@ title: "DIY brass prep station"
 description: "?"
 date: 2024-08-01
 categories: 
-tags: [22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
+tags: [gitHub, thingiverse, 22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
 comments: true
 draft: true
 ---

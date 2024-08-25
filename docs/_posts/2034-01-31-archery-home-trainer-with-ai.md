@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Is Gridfinity the ultimate storage solution?"
+title: "Archery home trainer - with Ai!"
 description: "?"
 date: 2024-08-01
 categories: 
-tags: [22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
+tags: [gitHub, thingiverse, 22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
 comments: true
 draft: true
 ---
