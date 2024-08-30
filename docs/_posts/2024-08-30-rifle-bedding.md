@@ -6,7 +6,7 @@ date: 2024-08-30
 categories: [Diy, Gunsmithing]
 tags: [diy, gunsmithing]
 comments: true
-draft: false
+draft: true
 ---
 [![Loading](/assets/loading.png){: .center }](/assets/loading.png)
 
