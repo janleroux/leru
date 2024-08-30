@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Creating my first ACAP"
+title: "Archery home trainer - with Ai!"
 description: "?"
-date: 2034-01-15
+date: 2025-01-31
 categories: 
 tags: [gitHub, thingiverse, 22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
 comments: true

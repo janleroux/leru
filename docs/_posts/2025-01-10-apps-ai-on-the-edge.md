@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Is Gridfinity the ultimate storage solution?"
+title: "My first attempt to create an Ai on the edge"
 description: "?"
-date: 2034-01-31
+date: 2025-01-10
 categories: 
 tags: [gitHub, thingiverse, 22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
 comments: true

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Giving a RPA2000 a new life"
+title: "Giving a BSA Martini a new life"
 description: "?"
-date: 2034-01-31
+date: 2025-01-31
 categories: 
 tags: [gitHub, thingiverse, 22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
 comments: true

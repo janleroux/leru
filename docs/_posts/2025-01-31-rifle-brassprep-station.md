@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Writing about, writing my first book"
+title: "DIY brass prep station"
 description: "?"
-date: 2034-01-31
+date: 2025-01-31
 categories: 
 tags: [gitHub, thingiverse, 22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
 comments: true
