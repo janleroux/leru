@@ -2,7 +2,7 @@
 layout: post
 title: "Archery home trainer"
 description: "?"
-date: 2034-01-31
+date: 2024-11-30
 categories: 
 tags: [gitHub, thingiverse, 22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
 comments: true

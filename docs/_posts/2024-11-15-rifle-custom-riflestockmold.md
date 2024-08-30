@@ -2,7 +2,7 @@
 layout: post
 title: "Custom rifle stock mold"
 description: "?"
-date: 2034-11-15
+date: 2024-11-15
 categories: 
 tags: [gitHub, thingiverse, 22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
 comments: true
