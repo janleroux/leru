@@ -2,8 +2,8 @@
 layout: post
 title: "22LR Ammo transport and storage"
 description: "Buying ammo in bulk comes with its own set of challenges, particularly in terms of storage and handling. This solution solves storage, transport and how to keep track of how much stock you have on hand"
-date: 2024-09-15
-categories: [Thingiverse, 22LR, 3D Printing, Diy, Sports]
+date: 2024-08-30
+categories: 
 tags: [thingiverse, 22lr, 3d printing, diy, sports]
 comments: true
 draft: true
