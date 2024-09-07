@@ -6,9 +6,9 @@ date: 2024-09-07
 categories: 
 tags: [diy, gunsmithing]
 comments: true
-draft: true
+draft: false
 ---
-[![Loading](/assets/240907-rpa){: .center }](/assets/240907-rpa)
+[![Loading](/assets/240907-rpa.jpg){: .center }](/assets/240907-rpa.jpg)
 
 ## What is Pillar and Action bedding?
 Pillar and action bedding on a rifle are techniques used to enhance the accuracy and consistency of the rifle by ensuring that the action (the part of the rifle that houses the bolt and chamber) is securely and consistently attached to the stock.
