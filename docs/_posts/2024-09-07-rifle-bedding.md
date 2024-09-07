@@ -3,8 +3,8 @@ layout: post
 title: "How to do Pillar and Action bedding"
 description: "Pillar and action bedding on a rifle are techniques used to enhance the accuracy and consistency of the rifle"
 date: 2024-09-07
-categories: 
-tags: [diy, gunsmithing]
+categories: [Diy, Gunsmithing, Rifle]
+tags: [diy, gunsmithing, rifle]
 comments: true
 draft: false
 ---
