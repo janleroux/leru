@@ -2,7 +2,7 @@
 layout: post
 title: "Xiao Expansion Base enclosure"
 description: "?"
-date: 2024-10-15
+date: 2024-09-11
 categories: 
 tags: [gitHub, thingiverse, 22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
 comments: true
