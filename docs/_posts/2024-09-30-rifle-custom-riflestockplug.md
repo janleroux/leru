@@ -48,9 +48,9 @@ A well-made plug is crucial for ensuring the accuracy and consistency of the mol
 
 [![Loading](/assets/240930-buildshape3.JPG){: .center }](/assets/240930-buildshape3.JPG)
 
-[![Loading](/assets/240930-buildshape4.JPG){: .center }](/assets/240930-buildshape4.JPG)
-
 ### 5. Fit the Barreled-action
+
+[![Loading](/assets/240930-buildshape4.JPG){: .center }](/assets/240930-buildshape4.JPG)
 
 [![Loading](/assets/240930-barrelactionfitment.JPG){: .center }](/assets/240930-barrelactionfitment.JPG)
 
@@ -82,9 +82,4 @@ A well-made plug is crucial for ensuring the accuracy and consistency of the mol
 
 [![Loading](/assets/240930-paintgloss.JPG){: .center }](/assets/240930-paintgloss.JPG)
 
-## Introduction
-### Components
-### Lets get on with it
-### Outcome
-### Tips
-### Downloads
+## Conclusion
