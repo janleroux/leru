@@ -20,6 +20,12 @@ In composite mold making, a plug (also called a pattern) is the master shape or 
 
 A well-made plug is crucial for ensuring the accuracy and consistency of the mold and, by extension, the final composite components
 
+## Lets get on with it
+
+### 1. Creating the paper design
+
+### 2. Transfer the paper design to the wood
+
 [![Loading](/assets/240930-papertowood.JPG){: .center }](/assets/240930-papertowood.JPG)
 
 [![Loading](/assets/240930-blueglue.JPG){: .center }](/assets/240930-blueglue.JPG)
@@ -30,7 +36,11 @@ A well-made plug is crucial for ensuring the accuracy and consistency of the mol
 
 [![Loading](/assets/240930-clampwood.JPG){: .center }](/assets/240930-clampwood.JPG)
 
+### 3. Rough-cut the wooden plug shape
+
 [![Loading](/assets/240930-roughcutshape.JPG){: .center }](/assets/240930-roughcutshape.JPG)
+
+### 4. Build the plug
 
 [![Loading](/assets/240930-buildshape.JPG){: .center }](/assets/240930-buildshape.JPG)
 
@@ -40,9 +50,13 @@ A well-made plug is crucial for ensuring the accuracy and consistency of the mol
 
 [![Loading](/assets/240930-buildshape4.JPG){: .center }](/assets/240930-buildshape4.JPG)
 
+### 5. Fit the Barreled-action
+
 [![Loading](/assets/240930-barrelactionfitment.JPG){: .center }](/assets/240930-barrelactionfitment.JPG)
 
 [![Loading](/assets/240930-barrelactionfitment2.JPG){: .center }](/assets/240930-barrelactionfitment2.JPG)
+
+### 6. Build the mechanisms
 
 [![Loading](/assets/240930-buildmechanism-lop.JPG){: .center }](/assets/240930-buildmechanism-lop.JPG)
 
@@ -56,9 +70,13 @@ A well-made plug is crucial for ensuring the accuracy and consistency of the mol
 
 [![Loading](/assets/240930-buildshape-lop.JPG){: .center }](/assets/240930-buildshape-lop.JPG)
 
+### 7. Fit the mechanisms and continue the plug build
+
 [![Loading](/assets/240930-buildshape-cheekriser.JPG){: .center }](/assets/240930-buildshape-cheekriser.JPG)
 
 [![Loading](/assets/240930-buildshape-cheekriser2.JPG){: .center }](/assets/240930-buildshape-cheekriser2.JPG)
+
+### 8. Finishing touches
 
 [![Loading](/assets/240930-paintfiller.JPG){: .center }](/assets/240930-paintfiller.JPG)
 
