@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Custom rifle: Making a Plug (pattern)"
+title: "Custom Grip"
 description: "?"
-date: 2024-09-10
+date: 2024-09-11
 categories: 
 tags: [diy, gun-smithing, rifle]
 comments: true
