@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Customizing My Gillo GX 25" Riser Grip"
-description: "A Journey to Perfection, to transform my shooting experience"
-date: 2024-09-20
-categories: [Thingiverse, 3D Printing, Archery, Diy, Sports]
-tags: [thingiverse, 3d printing, archery, diy, sports]
+title: "Custom rifle: Making a Plug (pattern)"
+description: "?"
+date: 2024-09-10
+categories: 
+tags: [diy, gun-smithing, rifle]
 comments: true
 draft: true
 ---
+[![Loading](/assets/240930-paperplan.JPG){: .center }](/assets/240930-paperplan.JPG)
+
 [![Finished Grip](/assets/241116-finishedgrip.jpg){: .center }](/assets/241116-finishedgrip.jpg)
 
 ## Introduction
