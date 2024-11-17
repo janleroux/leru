@@ -2,7 +2,7 @@
 layout: post
 title: "Customizing My Gillo GX 25" Riser Grip"
 description: "A Journey to Perfection, to transform my shooting experience"
-date: 2024-11-30
+date: 2024-09-20
 categories: [Thingiverse, 3D Printing, Archery, Diy, Sports]
 tags: [thingiverse, 3d printing, archery, diy, sports]
 comments: true
