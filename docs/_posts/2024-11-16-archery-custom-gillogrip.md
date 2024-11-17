@@ -6,7 +6,7 @@ date: 2024-11-16
 categories: [Thingiverse, 3D Printing, Archery, Diy, Sports]
 tags: [thingiverse, 3d printing, archery, diy, sports]
 comments: true
-draft: false
+draft: true
 ---
 [![Finished Grip](/assets/241116-finishedgrip.jpg){: .center }](/assets/241116-finishedgrip.jpg)
 
