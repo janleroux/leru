@@ -10,6 +10,8 @@ draft: true
 ---
 [![Loading](/assets/240930-paperplan.JPG){: .center }](/assets/240930-paperplan.JPG)
 
+This is a test by JLR to see if this updates.
+
 In composite mold making, a plug (also called a pattern) is the master shape or form used to create the mold. It is typically an exact, full-scale model of the desired part or component. The plug is critical because the surface quality, dimensions, and geometry of the plug directly determine the quality of the final composite part.
 
 ## Key roles of a plug in composite mold making:
