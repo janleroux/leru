@@ -8,8 +8,6 @@ tags: [diy, gun-smithing, rifle]
 comments: true
 draft: true
 ---
-[![Loading](/assets/240930-paperplan.JPG){: .center }](/assets/240930-paperplan.JPG)
-
 [![Finished Grip](/assets/241116-finishedgrip.jpg){: .center }](/assets/241116-finishedgrip.jpg)
 
 ## Introduction
