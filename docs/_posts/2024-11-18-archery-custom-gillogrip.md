@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Custom Grip"
+title: "Custom Gillo GX Grip"
 description: "?"
 date: 2024-09-18
 categories: 
