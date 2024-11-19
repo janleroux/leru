@@ -3,8 +3,8 @@ layout: post
 title: "Custom Gillo GX Grip"
 description: "?"
 date: 2024-09-18
-categories: 
-tags: [diy, gun-smithing, rifle]
+categories: [Thingiverse, 3D Printing, Archery, Diy, Sports]
+tags: [thingiverse, 3d printing, archery, diy, sports]
 comments: true
 draft: false
 ---
