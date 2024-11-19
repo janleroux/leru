@@ -2,11 +2,11 @@
 layout: post
 title: "Custom Grip"
 description: "?"
-date: 2024-09-11
+date: 2024-09-18
 categories: 
 tags: [diy, gun-smithing, rifle]
 comments: true
-draft: true
+draft: false
 ---
 [![Finished Grip](/assets/241116-finishedgrip.jpg){: .center }](/assets/241116-finishedgrip.jpg)
 
@@ -21,14 +21,12 @@ One challenge quickly became clear: the standard grip. Made of polished plastic,
 ### Identifying My Grip Needs
 To address the issue, I researched my options. Gillo offers custom grips, and there are third-party alternatives as well. However, I had very specific requirements for what I wanted in a grip:
 
-Wider and Off-Center: I needed the grip to be wider and shifted slightly off-center, toward my little finger, to match my natural hand alignment.
-Lower Bottom Corner: Extending the bottom of the grip would allow it to press consistently into the same spot on the heel of my palm, improving my shot consistency.
-Ergonomic Hand Angle: I wanted a shape that naturally positioned my hand at a 45-degree angle, with space for my thumb to rest lower than my index finger.
-Sweat Resistance: To combat slipperiness, I wanted the back of the grip (where my hand meets it) to have a textured material that would stay grippy even when my palms sweat.
+* **Wider and Off-Center**: I needed the grip to be wider and shifted slightly off-center, toward my little finger, to match my natural hand alignment.
+* **Lower Bottom Corner**: Extending the bottom of the grip would allow it to press consistently into the same spot on the heel of my palm, improving my shot consistency.
+* **Ergonomic Hand Angle**: I wanted a shape that naturally positioned my hand at a 45-degree angle, with space for my thumb to rest lower than my index finger.
+* **Sweat Resistance**: To combat slipperiness, I wanted the back of the grip (where my hand meets it) to have a textured material that would stay grippy even when my palms sweat.
 
 ### The Design and Testing Process
-
-[![3D Printing](/assets/241116-3dprinting.jpg){: .center }](/assets/241116-3dprinting.jpg)
 
 I started by designing a basic grip using Fusion 360. The first version was a simple model, focused solely on ensuring the screw holes aligned perfectly and the grip fit snugly onto the GX riser without excess play. Once I had that foundational fit, I began modifying the shape to meet my specific needs.
 
@@ -51,8 +49,13 @@ I then transfered the masking tape shape to the Croc Grip, and glued it to the g
 [![Croc Grip cut](/assets/241116-maskingtapecrocgrip.jpg){: .center }](/assets/241116-maskingtapecrocgrip.jpg)
 
 ### The Result
+
+[![Finished Grip](/assets/241116-finishedgrip2.jpg){: .center }](/assets/241116-finishedgrip2.jpg)
+
 Looking back, the effort and persistence were entirely worth it. Through trial and error, I achieved a custom grip that perfectly suits my shooting style and comfort needs. It’s widened, extended, ergonomically angled, and features the textured back I wanted. Most importantly, it’s allowed me to focus fully on my form and execution, without the distraction of grip-related issues.
 
 If you’re considering customizing your setup, my advice is to be patient and don’t settle for anything less than perfection. The process may take time, but the results will transform your shooting experience.
 
 ### Downloads
+
+[Download STL files from Thingiverse](https://www.thingiverse.com/thing:6747467)
