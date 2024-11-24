@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Archery String Jig"
+title: "3D Printed Archery String Jig"
 description: "Archery String Jig"
 date: 2024-11-23
 categories: 

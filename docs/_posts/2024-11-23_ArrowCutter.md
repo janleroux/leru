@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arrow Cutter"
-description: "?"
+description: "Arrow Cutter"
 date: 2024-11-23
 categories: 
 tags: [gitHub, thingiverse, 22lr, 3d printing, ai, archery, cooking, conservation, diy, electronics, gunsmithing, hunting, sports]
