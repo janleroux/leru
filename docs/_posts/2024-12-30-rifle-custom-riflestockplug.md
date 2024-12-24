@@ -54,25 +54,37 @@ Combine all the glue covered multiply sheets, and use clamps to keep everything 
 
 [![Roughcut the shape of the plug](/assets/240930-roughcutshape.JPG){: .center }](/assets/240930-roughcutshape.JPG)
 
+Cut the traced shape from the glued wood-pack, giving a small amount of margin (you can always take away, but it is more difficult to add material - although not impossible)
 
-
-### 4. Build the plug
+Do the same on the top (or bottom) of the plug. The result will be rough cut shape of the custom rifle stock.
 
 [![Build the plug shape](/assets/240930-buildshape.JPG){: .center }](/assets/240930-buildshape.JPG)
 
+Add, extra material in the areas where you wish you build the plug up, for example in this case where I want the grip to be off-center to the right (I am a right-handed shooter)
+
 [![Mark and add where fittings will attach](/assets/240930-buildshape2.JPG){: .center }](/assets/240930-buildshape2.JPG)
+
+Trace the recoil pad shape. This is not where the recoil pad will be mounted, but this serves as a good indicator to form the shape.
 
 [![File and shape the plug](/assets/240930-buildshape3.JPG){: .center }](/assets/240930-buildshape3.JPG)
 
-### 5. Fit the Barreled-action
+Then, after a lot of filing and sanding you end up with a good representation of what the actual stock will look like.
+
+### 4. Fit the Barreled-action
 
 [![Cut the action and barrel shape into the plug](/assets/240930-buildshape4.JPG){: .center }](/assets/240930-buildshape4.JPG)
 
+Now it is good time to fit the barrel and action. This specific stock is for a Howa 1500. This process involves cutting and hollowing out the inside of the stock so the action will fit snugly, and that all the functions such as the safety will have the necessary space to operate as it was designed to do.
+
 [![Rough fit barrel and action into the plug](/assets/240930-barrelactionfitment.JPG){: .center }](/assets/240930-barrelactionfitment.JPG)
+
+An important check, is to make sure the trigger guard and magazine assembly fit correctly in the stock, and that it will feed the rounds smoothly from the magazine into the action.
 
 [![Fit trigger and magazine to plug](/assets/240930-barrelactionfitment2.JPG){: .center }](/assets/240930-barrelactionfitment2.JPG)
 
-### 6. Build the mechanisms
+With all of this done, we know the action and barrel fits into the plug-stock. The barrel have sufficient clearance to be free floating. The respective components (bolt, magazine release and safety) all work as they were intended to work.
+
+### 5. Build the mechanisms
 
 [![Loading](/assets/240930-buildmechanism-lop.JPG){: .center }](/assets/240930-buildmechanism-lop.JPG)
 
@@ -86,13 +98,13 @@ Combine all the glue covered multiply sheets, and use clamps to keep everything 
 
 [![Loading](/assets/240930-buildshape-lop.JPG){: .center }](/assets/240930-buildshape-lop.JPG)
 
-### 7. Fit the mechanisms and continue the plug build
+### 6. Fit the mechanisms and continue the plug build
 
 [![Loading](/assets/240930-buildshape-cheekriser.JPG){: .center }](/assets/240930-buildshape-cheekriser.JPG)
 
 [![Loading](/assets/240930-buildshape-cheekriser2.JPG){: .center }](/assets/240930-buildshape-cheekriser2.JPG)
 
-### 8. Finishing touches
+### 7. Finishing touches
 
 [![Loading](/assets/240930-paintfiller.JPG){: .center }](/assets/240930-paintfiller.JPG)
 
